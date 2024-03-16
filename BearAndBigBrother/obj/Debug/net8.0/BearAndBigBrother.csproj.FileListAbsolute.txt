@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\bin\Debug\net8.0\BearAndBigBrother.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\bin\Debug\net8.0\BearAndBigBrother.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\bin\Debug\net8.0\BearAndBigBrother.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\bin\Debug\net8.0\BearAndBigBrother.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\bin\Debug\net8.0\BearAndBigBrother.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\obj\Debug\net8.0\BearAndBigBrother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\obj\Debug\net8.0\BearAndBigBrother.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\obj\Debug\net8.0\BearAndBigBrother.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\obj\Debug\net8.0\BearAndBigBrother.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\obj\Debug\net8.0\BearAndBigBrother.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\obj\Debug\net8.0\refint\BearAndBigBrother.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\obj\Debug\net8.0\BearAndBigBrother.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\obj\Debug\net8.0\BearAndBigBrother.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\BearAndBigBrother\BearAndBigBrother\obj\Debug\net8.0\ref\BearAndBigBrother.dll
